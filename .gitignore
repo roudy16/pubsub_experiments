@@ -1,0 +1,6 @@
+/3rd_party/redis
+/3rd_party/kafka
+/3rd_party/rabbitmq
+
+.idea/
+
